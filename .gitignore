@@ -1,0 +1,15 @@
+analysis_results
+combo_model
+author_funcs/*.py
+author_funcs/__pycache__
+combo-venv
+data/task*/*.jsonl
+unsloth_compiled_cache
+mlruns*
+outputs
+normalization/test*
+normalization/sample*
+solution/*/backups
+Qwen3*BACKUP.ipynb
+predictions_checkpoint*.jsonl
+nohup.out

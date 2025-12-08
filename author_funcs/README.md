@@ -1,0 +1,1 @@
+This folder contained evaluation functions provided by the task authors - post competition; please contact Them for access (https://www.linkedin.com/in/alina-wroblewska-phd-b22055357).
